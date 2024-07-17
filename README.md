@@ -15,6 +15,9 @@ RL style algo to be disscussed:
 -Performance and features of these two style of RL was disscussed here. 
 
 RL.ipynb: -World building, - experiment running, - report plotting
+
+FL_mod.py: a modding file for frozen lake problem 
+
 It require Numpy, Pandas, Openai Gym 26.2, Hiive fork of PyMDPtoolbox(https://github.com/hiive/hiivemdptoolbox/releases) to run. 
 
 RL_report.pdf: -The actual case study report.
